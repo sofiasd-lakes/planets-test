@@ -1,8 +1,8 @@
 earth
+jupiter
 mars
 mercury
-venus
-saturn
-jupiter
 neptune
+saturn
 uranus
+venus
