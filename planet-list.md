@@ -2,7 +2,6 @@ earth
 mars
 mercury
 venus
-pluto
 saturn
 jupiter
 neptune
